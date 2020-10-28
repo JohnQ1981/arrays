@@ -18,7 +18,8 @@ public class Arrays {
 			list.add(scan.nextInt());
 			
 		}
-		System.out.println(list);
+		System.out.println("Your Array list is: "+ list);
+		
 
 	}
 
